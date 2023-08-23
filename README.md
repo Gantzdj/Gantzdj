@@ -1,4 +1,6 @@
-#### Olá! Prazer sou o Bruno Lima 👋
+
+<h2 style="font-size: 35px;">Olá! Prazer sou o Bruno 👋</h2>
+
 
 <!--
 **Gantzdj/Gantzdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
