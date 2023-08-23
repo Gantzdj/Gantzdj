@@ -10,9 +10,21 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: blimma78gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
+
+ 🔭 - I am currently interning at FIEMA (Federation of Industries of Maranhão -BR) 
+ <BR>
+🌱-  I'm currently learning Python, SQL and Dynamcs365
+<BR>
+💬-  Ask Me About Anything 
+<BR>
+📫-  How to Get to Me: blimma78@gmail.com
+<BR>
+⚡- Curiosity: Electronic music to soothe the soul!
 -->
 
 <br/>
