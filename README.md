@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bruno Lima 👋
+### Olá! Prazer sou o Bruno Lima 👋
 
 <!--
 **Gantzdj/Gantzdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 ##
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gantzdj&theme=sunset-gradient&hide_border=true&border_radius=5)](https://git.io/streak-stats)
